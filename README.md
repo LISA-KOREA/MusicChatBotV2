@@ -26,7 +26,7 @@
 1. `API_ID` : Get it from https://my.telegram.org/apps 
 2. `API_HASH` : Get it from https://my.telegram.org/apps
 3. `BOT_TOKEN` : Get it from [@Botfather](https://t.me/botfather)
-4. `SESSION_STRING` : Generate from [@String Session Bot](http://t.me/StringSession_GeneratorBot) or [![genStr](https://img.shields.io/badge/repl.it-genStr-yellowgreen)]()
+4. `SESSION_STRING` : Generate from [@String Session Bot](http://t.me/StringSession_GeneratorBot)
 5. `CHAT_ID` : ID of Channel/Group where the bot plays Music/Radio.
 6. `LOG_GROUP` : ID of Group to send Playlist, if CHAT_ID is a Group.
 7. `AUTH_USERS` : ID of Auth Users who can use Admin commands. (for multiple users seperated by space)
