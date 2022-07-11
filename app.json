@@ -1,7 +1,7 @@
 {
-  "name": "Telegram Radio Player V3",
-  "description": "An Telegram Bot By Safone to Play Nonstop Radio/Music/YouTube Live in Telegram Voice Chats",
-  "logo": "https://telegra.ph/file/a3755d9cb09f1361e3ac7.jpg",
+  "name": "Telegram Music Player V2",
+  "description": "Lisa 🇰🇷",
+  "logo": "https://te.legra.ph/file/7ebffb2ecdc2813fc5655.jpg",
   "stack": "container",
   "keywords": [
     "telegram",
@@ -17,11 +17,11 @@
   ],
   "env": {
     "API_ID": {
-      "description": "User Accounts Telegram API_ID get it from https://my.telegram.org/apps",
+      "description": "User Accounts Telegram API_ID get it from https://my.telegram.org/apps or @s4h_api_idbot",
       "required": true
     },
     "API_HASH": {
-      "description": "User Accounts Telegram API_HASH get it from https://my.telegram.org/apps",
+      "description": "User Accounts Telegram API_HASH get it from https://my.telegram.org/apps or @s4h_api_idbot",
       "required": true
     },
     "BOT_TOKEN": {
@@ -29,7 +29,7 @@
       "required": true
     },
     "SESSION_STRING": {
-      "description": "User Accounts Session String, get it from https://replit.com/@AsmSafone/genStr",
+      "description": "User Accounts Session String, get it from @StringSession_GeneratorBot or https://replit.com/@TelegramBots/LisaSession",
       "required": true
     },
     "CHAT_ID": {
@@ -51,17 +51,17 @@
     },
     "MAXIMUM_DURATION": {
       "description": "Maximum Duration of a song to be played by using /play command",
-      "value": "15",
+      "value": "260",
       "required": false
     },
     "STREAM_URL": {
       "description": "URL of Radio Station or Youtube Live video url to stream with /radio command",
-      "value": "https://youtu.be/5qap5aO4i9A",
+      "value": "https://node-33.zeno.fm/eez8p9x93qzuv?rj-ttl=5&rj-tok=AAABdtuMO44A_ZoFBqvbRXpmeg",
       "required": false
     },
     "REPLY_MESSAGE": {
       "description": "A reply message to those who message the USER account in PM. Make it blank if you do not need this feature.",
-      "value": "Hello Sir, I'm a bot to play radio/music/youtube live on telegram voice chat, not having time to chat with you 😂!",
+      "value": "**Hello 👋 brother or sister I'm a group music chat bot to play radio/music/youtube live on telegram group voice chat, not having time to chat with you 🙂!**",
       "required": false
     },
     "HEROKU_API_KEY": {
