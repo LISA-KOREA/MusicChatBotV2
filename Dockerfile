@@ -15,9 +15,9 @@ COPY requirements.txt /requirements.txt
 # Installing Requirements
 RUN cd /
 RUN pip3 install -U -r requirements.txt
-RUN mkdir /RadioPlayerV3
-WORKDIR /RadioPlayerV3
+RUN mkdir /MusicChatBotV2
+WORKDIR /MusicChatBotV2
 COPY start.sh /start.sh
 
-# Running Radio Player Bot
+# Running Music Player Bot
 CMD ["/bin/bash", "/start.sh"]
