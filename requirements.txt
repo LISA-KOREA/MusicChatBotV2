@@ -1,0 +1,13 @@
+wget
+wheel
+psutil
+requests
+heroku3
+tgcrypto
+ffmpeg-python
+python-dotenv
+youtube_search
+youtube_search_python
+pyrogram==1.4.16
+pytgcalls==3.0.0.dev22
+git+https://github.com/asmsafone/downloader
