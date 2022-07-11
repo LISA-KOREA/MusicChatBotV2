@@ -1,6 +1,6 @@
 """
-RadioPlayerV3, Telegram Voice Chat Bot
-Copyright (c) 2021  Asm Safone <https://github.com/AsmSafone>
+Telegram Music Chat Bot
+Copyright (c) 2022  Lisa <https://github.com/LISA-KOREA>
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU Affero General Public License as published by
@@ -35,7 +35,7 @@ buttons = [
                 InlineKeyboardButton("SUPPORT", url="https://t.me/+QDRYmx1DUhIyMzVl"),
             ],
             [
-                InlineKeyboardButton("🤖 MAKE YOUR OWN BOT 🤖", url="https://t.me/+QDRYmx1DUhIyMzVl"),
+                InlineKeyboardButton("🤖 MAKE YOUR OWN BOT 🤖", url="https://github.com/LISA-KOREA/MusicChatBotV2"),
             ]
          ]
 
