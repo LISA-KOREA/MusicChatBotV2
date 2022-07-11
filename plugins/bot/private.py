@@ -202,7 +202,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             ],
             [
                 InlineKeyboardButton("MORE BOTS", url="https://t.me/+QDRYmx1DUhIyMzVl"),
-                InlineKeyboardButton("SOURCE CODE", url="https://t.me/+QDRYmx1DUhIyMzVl"),
+                InlineKeyboardButton("SOURCE CODE", url="https://github.com/LISA-KOREA/MusicChatBotV2"),
             ],
             [
                 InlineKeyboardButton("BACK HOME", callback_data="home"),
@@ -229,7 +229,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             ],
             [
                 InlineKeyboardButton("MORE BOTS", url="https://t.me/+QDRYmx1DUhIyMzVl"),
-                InlineKeyboardButton("SOURCE CODE", url="https://t.me/+QDRYmx1DUhIyMzVl"),
+                InlineKeyboardButton("SOURCE CODE", url="https://github.com/LISA-KOREA/MusicChatBotV2"),
             ],
             [
                 InlineKeyboardButton("❔ HOW TO USE ❔", callback_data="help"),
@@ -267,7 +267,7 @@ async def start(client, message):
             ],
             [
                 InlineKeyboardButton("MORE BOTS", url="https://t.me/+QDRYmx1DUhIyMzVl"),
-                InlineKeyboardButton("SOURCE CODE", url="https://t.me/+QDRYmx1DUhIyMzVl"),
+                InlineKeyboardButton("SOURCE CODE", url="https://github.com/LISA-KOREA/MusicChatBotV2"),
             ],
             [
                 InlineKeyboardButton("❔ HOW TO USE ❔", callback_data="help"),
@@ -291,7 +291,7 @@ async def help(client, message):
             ],
             [
                 InlineKeyboardButton("MORE BOTS", url="https://t.me/+QDRYmx1DUhIyMzVl"),
-                InlineKeyboardButton("SOURCE CODE", url="https://t.me/+QDRYmx1DUhIyMzVl"),
+                InlineKeyboardButton("SOURCE CODE", url="https://github.com/LISA-KOREA/MusicChatBotV2"),
             ],
             [
                 InlineKeyboardButton("BACK HOME", callback_data="home"),
