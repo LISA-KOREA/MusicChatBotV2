@@ -29,7 +29,7 @@ CHAT_ID=Config.CHAT_ID
 playlist=Config.playlist
 LOG_GROUP=Config.LOG_GROUP
 
-HOME_TEXT = "👋🏻 **Hi [{}](tg://user?id={})**,\n\nI'm **Music Player V2.0** \nI Can Play Radio / Music / YouTube Live In Channel & Group 24x7 Nonstop. Made with by Lisa 🇰🇷!"
+HOME_TEXT = "👋🏻 **Hi [{}](tg://user?id={})**,\n\nI'm **Music Player V2.0** \nI Can Play Radio / Music / YouTube Live In Channel & Group ❤️ \n**Edit by Lisa** 🇰🇷!"
 HELP_TEXT = """
 💡 --**Setting Up**--:
 
@@ -62,7 +62,7 @@ HELP_TEXT = """
 \u2022 `/restart` - update & restart the bot
 \u2022 `/setvar` - set/change heroku configs
 
-© **Editer by** : 
+© **Editor by** : 
 **Lisa**💕
 """
 
