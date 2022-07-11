@@ -1,7 +1,7 @@
 # Music Chat Bot V2
 
 
-[![logo](https://c.tenor.com/J4JpLu8QvHIAAAAd/lisa-blackpink-lisa.gif)](http://t.me/Music_kl_bot)
+[![logo](https://c.tenor.com/pLmhGBqO6soAAAAd/lisa-cute-lisa.gif)](http://t.me/LisaMusicPlayerBot)
 
 
 
