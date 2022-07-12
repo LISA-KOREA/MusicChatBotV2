@@ -17,6 +17,8 @@
 
 ![Logo](https://www.tamilblasters.lol/uploads/monthly_2020_02/torrborder.gif.76a54db1a11406f9ba80146699b99b74.gif)
 
+<a href="http://t.me/StringSession_GeneratorBot"><img alt="replit" src="https://img.shields.io/badge/-String%20Session-black?style=for-the-badge&logo=replit&logoColor=white"/></a> 
+
 
 ## Config Vars:
 1. `API_ID` : Get it from https://my.telegram.org/apps 
