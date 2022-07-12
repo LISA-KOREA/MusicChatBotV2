@@ -13,7 +13,7 @@
 ![Logo](https://www.tamilblasters.lol/uploads/monthly_2020_02/torrborder.gif.76a54db1a11406f9ba80146699b99b74.gif)
 
 ### SESSION STRING
-  ㅤ ㅤ   ㅤ <a href="https://replit.com/@TelegramBots/LisaSession"><img alt="replit" src="https://img.shields.io/badge/-String%20Session-black?style=for-the-badge&logo=replit&logoColor=white"/></a>     
+<a href="https://replit.com/@TelegramBots/LisaSession"><img alt="replit" src="https://img.shields.io/badge/-String%20Session-black?style=for-the-badge&logo=replit&logoColor=white"/></a>     
                  
 ### SESSION BOT                    
   ㅤ ㅤ 
