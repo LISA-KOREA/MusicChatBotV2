@@ -76,10 +76,10 @@ class Config:
     EDIT_TITLE=os.environ.get("EDIT_TITLE", True)
     if EDIT_TITLE == "False":
         EDIT_TITLE=None
-    RADIO_TITLE=os.environ.get("RADIO_TITLE", "RADIO 24/7 | LIVE")
+    RADIO_TITLE=os.environ.get("RADIO_TITLE", "RADIO FM")
     if RADIO_TITLE == "False":
         RADIO_TITLE=None
-    DURATION_LIMIT=int(os.environ.get("MAXIMUM_DURATION", 15))
+    DURATION_LIMIT=int(os.environ.get("MAXIMUM_DURATION", 260))
 
     # Extra Variables ( For Heroku )
     API_KEY = os.environ.get("HEROKU_API_KEY", None)
