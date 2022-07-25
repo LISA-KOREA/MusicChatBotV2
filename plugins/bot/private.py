@@ -31,20 +31,20 @@ LOG_GROUP=Config.LOG_GROUP
 
 HOME_TEXT = "👋🏻 **Hello [{}](tg://user?id={})**,\n\nI'm **Music Player V2.0** \nI Can Play Radio / Music / YouTube Live In Channel & Group ❤️ \n**Edit by Lisa** 🇰🇷!"
 HELP_TEXT = """
-💡 --**Setting Up**--:
+𒊹︎︎︎ --**Setting Up**--:
 
 \u2022 Add the bot and user account in your group with admin rights.
 \u2022 Start a voice chat in your group & restart the bot if not joined to vc.
 \u2022 Use /play [song name] or use /play as a reply to an audio file or youtube link.
 
-💡 --**Common Commands**--:
+𒊹︎︎︎ --**Common Commands**--:
 
 \u2022 `/help` - shows help for all commands
 \u2022 `/song` [song name] - download the song as audio
 \u2022 `/current` - shows current track with controls
 \u2022 `/playlist` - shows the current & queued playlist
 
-💡 --**Admins Commands**--:
+𒊹︎︎︎ --**Admins Commands**--:
 
 \u2022 `/radio` - start radio stream
 \u2022 `/stopradio` - stop radio stream
@@ -62,8 +62,7 @@ HELP_TEXT = """
 \u2022 `/restart` - update & restart the bot
 \u2022 `/setvar` - set/change heroku configs
 
-© **Editor by** : 
-**Lisa**💕
+© **Editor by** : **Lisa**💕
 """
 
 
