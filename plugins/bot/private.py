@@ -29,7 +29,7 @@ CHAT_ID=Config.CHAT_ID
 playlist=Config.playlist
 LOG_GROUP=Config.LOG_GROUP
 
-HOME_TEXT = "👋🏻 **Hi [{}](tg://user?id={})**,\n\nI'm **Music Player V2.0** \nI Can Play Radio / Music / YouTube Live In Channel & Group ❤️ \n**Edit by Lisa** 🇰🇷!"
+HOME_TEXT = "👋🏻 **Hello [{}](tg://user?id={})**,\n\nI'm **Music Player V2.0** \nI Can Play Radio / Music / YouTube Live In Channel & Group ❤️ \n**Edit by Lisa** 🇰🇷!"
 HELP_TEXT = """
 💡 --**Setting Up**--:
 
@@ -197,16 +197,16 @@ async def cb_handler(client: Client, query: CallbackQuery):
                 InlineKeyboardButton("SEARCH SONGS INLINE", switch_inline_query_current_chat=""),
             ],
             [
-                InlineKeyboardButton("CHANNEL", url="https://t.me/+QDRYmx1DUhIyMzVl"),
-                InlineKeyboardButton("SUPPORT", url="https://t.me/+QDRYmx1DUhIyMzVl"),
+                InlineKeyboardButton("📍 CHANNEL", url="https://t.me/+2CZ1DveIGfQxNjZl"),
+                InlineKeyboardButton("🌝 SUPPORT", url="https://t.me/+2CZ1DveIGfQxNjZl"),
             ],
             [
-                InlineKeyboardButton("MORE BOTS", url="https://t.me/+QDRYmx1DUhIyMzVl"),
-                InlineKeyboardButton("SOURCE CODE", url="https://github.com/LISA-KOREA/MusicChatBotV2"),
+                InlineKeyboardButton("🤖 MORE BOTS", url="https://t.me/+2CZ1DveIGfQxNjZl"),
+                InlineKeyboardButton("😒 SOURCE CODE", url="https://github.com/LISA-KOREA/MusicChatBotV2"),
             ],
             [
-                InlineKeyboardButton("BACK HOME", callback_data="home"),
-                InlineKeyboardButton("CLOSE MENU", callback_data="close"),
+                InlineKeyboardButton("🔙 BACK", callback_data="home"),
+                InlineKeyboardButton("🔒 CLOSE MENU", callback_data="close"),
             ]
             ]
         reply_markup = InlineKeyboardMarkup(buttons)
@@ -224,12 +224,12 @@ async def cb_handler(client: Client, query: CallbackQuery):
                 InlineKeyboardButton("SEARCH SONGS INLINE", switch_inline_query_current_chat=""),
             ],
             [
-                InlineKeyboardButton("CHANNEL", url="https://t.me/+QDRYmx1DUhIyMzVl"),
-                InlineKeyboardButton("SUPPORT", url="https://t.me/+QDRYmx1DUhIyMzVl"),
+                InlineKeyboardButton("📍 CHANNEL", url="https://t.me/+2CZ1DveIGfQxNjZl"),
+                InlineKeyboardButton("🌝 SUPPORT", url="https://t.me/+2CZ1DveIGfQxNjZl"),
             ],
             [
-                InlineKeyboardButton("MORE BOTS", url="https://t.me/+QDRYmx1DUhIyMzVl"),
-                InlineKeyboardButton("SOURCE CODE", url="https://github.com/LISA-KOREA/MusicChatBotV2"),
+                InlineKeyboardButton("🤖 MORE BOTS", url="https://t.me/+2CZ1DveIGfQxNjZl"),
+                InlineKeyboardButton("😒 SOURCE CODE", url="https://github.com/LISA-KOREA/MusicChatBotV2"),
             ],
             [
                 InlineKeyboardButton("❔ HOW TO USE ❔", callback_data="help"),
@@ -262,12 +262,12 @@ async def start(client, message):
                 InlineKeyboardButton("SEARCH SONGS INLINE", switch_inline_query_current_chat=""),
             ],
             [
-                InlineKeyboardButton("CHANNEL", url="https://t.me/+QDRYmx1DUhIyMzVl"),
-                InlineKeyboardButton("SUPPORT", url="https://t.me/+QDRYmx1DUhIyMzVl"),
+                InlineKeyboardButton("📍 CHANNEL", url="https://t.me/+2CZ1DveIGfQxNjZl"),
+                InlineKeyboardButton("🌝 SUPPORT", url="https://t.me/+2CZ1DveIGfQxNjZl"),
             ],
             [
-                InlineKeyboardButton("MORE BOTS", url="https://t.me/+QDRYmx1DUhIyMzVl"),
-                InlineKeyboardButton("SOURCE CODE", url="https://github.com/LISA-KOREA/MusicChatBotV2"),
+                InlineKeyboardButton("🤖 MORE BOTS", url="https://t.me/+2CZ1DveIGfQxNjZl"),
+                InlineKeyboardButton("😒 SOURCE CODE", url="https://github.com/LISA-KOREA/MusicChatBotV2"),
             ],
             [
                 InlineKeyboardButton("❔ HOW TO USE ❔", callback_data="help"),
@@ -286,16 +286,16 @@ async def help(client, message):
                 InlineKeyboardButton("SEARCH SONGS INLINE", switch_inline_query_current_chat=""),
             ],
             [
-                InlineKeyboardButton("CHANNEL", url="https://t.me/+QDRYmx1DUhIyMzVl"),
-                InlineKeyboardButton("SUPPORT", url="https://t.me/+QDRYmx1DUhIyMzVl"),
+                InlineKeyboardButton("📍 CHANNEL", url="https://t.me/+2CZ1DveIGfQxNjZl"),
+                InlineKeyboardButton("🌝 SUPPORT", url="https://t.me/+2CZ1DveIGfQxNjZl"),
             ],
             [
-                InlineKeyboardButton("MORE BOTS", url="https://t.me/+QDRYmx1DUhIyMzVl"),
-                InlineKeyboardButton("SOURCE CODE", url="https://github.com/LISA-KOREA/MusicChatBotV2"),
+                InlineKeyboardButton("🤖 MORE BOTS", url="https://t.me/+2CZ1DveIGfQxNjZl"),
+                InlineKeyboardButton("😒 SOURCE CODE", url="https://github.com/LISA-KOREA/MusicChatBotV2"),
             ],
             [
-                InlineKeyboardButton("BACK HOME", callback_data="home"),
-                InlineKeyboardButton("CLOSE MENU", callback_data="close"),
+                InlineKeyboardButton("🔙 BACK", callback_data="home"),
+                InlineKeyboardButton("🔒 CLOSE MENU", callback_data="close"),
             ]
             ]
     reply_markup = InlineKeyboardMarkup(buttons)
